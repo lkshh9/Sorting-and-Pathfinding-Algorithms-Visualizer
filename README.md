@@ -1,5 +1,5 @@
 
-# algorithms-visualizer
+# Algorithms visualizer
 
 ## Key Features:
 1. Interactive visualizations of sorting algorithms and graph path finding algorithms
